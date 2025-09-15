@@ -1,0 +1,15 @@
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/dto/ClienteRequestDTO.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/service/ProdutoService.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/domain/Produto.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/dto/ClienteResponseDTO.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/config/SwaggerConfig.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/dto/ProdutoResponseDTO.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/SoaCheckpoint1Application.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/controller/ProdutoController.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/service/ClienteService.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/dto/ProdutoRequestDTO.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/domain/Cliente.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/controller/ClienteController.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/exception/GlobalExceptionHandler.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/repository/ProdutoRepository.java
+/Users/gmediotti/Projects/Personal/fiap/soa/cp1/soa-checkpoint-1/src/main/java/br/com/soacheckpoint1/repository/ClienteRepository.java

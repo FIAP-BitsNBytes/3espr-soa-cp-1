@@ -1,0 +1,15 @@
+br/com/soacheckpoint1/SoaCheckpoint1Application.class
+br/com/soacheckpoint1/dto/ProdutoResponseDTO.class
+br/com/soacheckpoint1/config/SwaggerConfig.class
+br/com/soacheckpoint1/repository/ClienteRepository.class
+br/com/soacheckpoint1/dto/ClienteRequestDTO.class
+br/com/soacheckpoint1/domain/Produto.class
+br/com/soacheckpoint1/domain/Cliente.class
+br/com/soacheckpoint1/dto/ClienteResponseDTO.class
+br/com/soacheckpoint1/controller/ProdutoController.class
+br/com/soacheckpoint1/dto/ProdutoRequestDTO.class
+br/com/soacheckpoint1/repository/ProdutoRepository.class
+br/com/soacheckpoint1/service/ClienteService.class
+br/com/soacheckpoint1/service/ProdutoService.class
+br/com/soacheckpoint1/controller/ClienteController.class
+br/com/soacheckpoint1/exception/GlobalExceptionHandler.class
