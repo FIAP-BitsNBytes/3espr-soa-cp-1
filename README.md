@@ -1,8 +1,10 @@
 # Loja Online – API REST
 
 ## Integrantes
-- Nome: Gabriel Mediotti Marques
-- RM: 552632
+- Gabriel Mediotti Marques - RM 552632
+- Jó Sales - RM 552679
+- Miguel Garcez de Carvalho - RM 553768
+- Vinicius Souza e Silva - RM 552781
 
 ## Requisitos
 - Java 17 + Spring Boot 3.x
