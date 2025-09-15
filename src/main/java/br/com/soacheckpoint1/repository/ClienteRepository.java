@@ -1,0 +1,9 @@
+package br.com.soacheckpoint1.repository;
+
+import br.com.soacheckpoint1.domain.Cliente;
+import org.springframework.data.jpa.repository.JpaRepository;
+import java.util.Optional;
+
+public interface ClienteRepository extends JpaRepository<Cliente, Long> {
+    Optional<Cliente> findByEmail(String email);
+}
